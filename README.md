@@ -31,7 +31,6 @@ Below you'll find live deployed versions of these projects across domains like r
 - **Lazy Loading**: **React.lazy** and **Suspense** used to load components on demand, improving initial load performance.
 
 ## 🌐 Live Projects
-
 Here are some of the live projects I've worked on:
 
 - 🔗 [Omni Infra Heights](https://omniinfraheights.com/) – Real Estate Listing App (React + Redux + Leaflet + API integration)
